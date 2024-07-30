@@ -1,4 +1,3 @@
-# sound-board
-It's  HTML & CSS Project 
+# Sound-Board
 
 **[LIVE DEMO]( https://aditikute24.github.io/sound-board/)**
